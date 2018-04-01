@@ -1,19 +1,20 @@
 {
-  "name": "bitcore-message",
-  "main": "./bitcore-message.min.js",
+  "name": "potcore-message",
+  "main": "./potcore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-message",
+  "homepage": "https://github.com/potcoin-dev/potcore-message",
   "authors": [
+    "Ahmed Bodiwala",
     "BitPay"
   ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "description": "Potcoin Message Verification and Signing for Potcore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
+    "potcoin",
+    "potcore",
+    "pot",
     "satoshi",
     "message",
     "signing"
